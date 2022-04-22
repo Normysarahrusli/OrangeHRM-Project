@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Users leave required field blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b9dca8b-fd5f-4bba-8e3d-02abb8c12430</testCaseGuid>
+</TestCaseEntity>

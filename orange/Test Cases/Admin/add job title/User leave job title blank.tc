@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User leave job title blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf47ed56-dcba-4b79-9362-3252f0c81ed2</testCaseGuid>
+</TestCaseEntity>

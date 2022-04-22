@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User did not enter employee name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2dd19d9-c687-4d83-bfe0-19a9d481b12a</testCaseGuid>
+</TestCaseEntity>

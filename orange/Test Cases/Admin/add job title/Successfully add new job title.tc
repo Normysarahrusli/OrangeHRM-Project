@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Successfully add new job title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5504f9c-0a83-42e7-87db-07fb967bf425</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>42827dc5-c9ce-4c59-a717-e264a45519e0</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Users delete more than one job titles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba6e2986-a467-4de6-be87-c1f610e425dc</testCaseGuid>
+</TestCaseEntity>

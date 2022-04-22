@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add job</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee0a3456-87e5-4a1d-8bdd-a22485086ca4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a543ecb7-1931-49da-a872-451e1afca0fa</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e915d35c-f178-4167-ac63-be371ef45d66</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc50c580-08d3-4d3b-a4d7-99afd0348816</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+</TestCaseEntity>
